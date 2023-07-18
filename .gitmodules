@@ -1,0 +1,3 @@
+[submodule "sportfinder-backend"]
+	path = sportfinder-backend
+	url = https://github.com/Middle-Earth-Amateurs/sportfinder-backend.git
